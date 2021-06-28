@@ -1,3 +1,3 @@
-## 0.0.1
+## 0.0.1 - 2021-06-27
 
-* TODO: Describe initial release.
+* : Initial release of a new generic search bar for flutter.
